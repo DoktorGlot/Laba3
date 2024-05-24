@@ -1,6 +1,6 @@
 # Функция для сложения двух чисел
 def add(x, y):
-    return x + y
+    return y + x
 
 # Функция для вычитания двух чисел
 def subtract(x, y):
